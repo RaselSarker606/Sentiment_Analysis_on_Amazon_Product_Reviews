@@ -1,5 +1,8 @@
 # 📌 Sentiment Analysis on Amazon Product Reviews
 
+![Sentiment Analysis](https://img.shields.io/badge/NLP-Sentiment%20Analysis-blue)  
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  
+![ML](https://img.shields.io/badge/Machine%20Learning-NLP-green)
 
 ## 📖 Overview  
 This project focuses on sentiment analysis of **Amazon product reviews** using **Natural Language Processing (NLP) and Machine Learning** techniques. The goal is to classify customer sentiments into positive, negative, or neutral categories based on their reviews.
